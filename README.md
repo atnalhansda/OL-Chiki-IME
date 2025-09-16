@@ -19,7 +19,7 @@ It provides an easy way to type Ol Chiki letters using a **phonetic keyboard map
 
 ## 📦 Installation
 
-1. Go to the **[Releases page](https://github.com/YOUR_USERNAME/OlChikiIME/releases/latest)**.  
+1. Go to the **[Releases page]([https://github.com/YOUR_USERNAME/OlChikiIME/releases/latest](https://github.com/atnalhansda/OL-Chiki-IME/releases/tag/v1.0.0))**.  
 2. Download the latest `.exe` file (e.g., `OlChikiIME-v1.0.0.exe`).  
 3. Double-click the file to run.  
    - *(Optional: If you want to keep it always available, copy it to `Startup` folder so it launches with Windows.)*
@@ -71,7 +71,7 @@ Since this repository only distributes the executable, contributions are current
 ## 📜 License
 
 This project is licensed under the **MIT License**.  
-See LICENSE for details.
+See [LICENSE](https://github.com/atnalhansda/OL-Chiki-IME/blob/main/License) for details.
 
 ---
 
