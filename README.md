@@ -53,7 +53,7 @@ It provides an easy way to type Ol Chiki letters using a **phonetic keyboard map
 
 ## 📝 Versioning
 
-- **Current Release:** `v1.0.0`  
+- **Current Release:** `[v1.0.0](https://github.com/atnalhansda/OL-Chiki-IME/releases/download/v1.0.0/Ol.Chiki.IME.exe)`  
 - Versioning follows **Semantic Versioning**:  
   - `MAJOR.MINOR.PATCH` → Example: `1.0.0`  
 
