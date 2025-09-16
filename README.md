@@ -10,7 +10,6 @@ It provides an easy way to type Ol Chiki letters using a **phonetic keyboard map
 - ✅ **Phonetic key mapping** – Type Ol Chiki characters using Latin letters.  
 - ✅ **System tray integration** – Runs quietly in the background with a tray icon.  
 - ✅ **Hotkey toggle** – Quickly enable/disable IME with global shortcuts:  
-  - `Ctrl + Alt + O` → Toggle IME  
   - `Ctrl + Alt + /` → Toggle IME  
 - ✅ **Toolbar support** – Enable, Settings, About, and Exit buttons.  
 - ✅ **Lightweight** – Minimal resource usage, no installation bloat.  
@@ -48,7 +47,6 @@ It provides an easy way to type Ol Chiki letters using a **phonetic keyboard map
 
 | Shortcut         | Action                  |
 |------------------|-------------------------|
-| `Ctrl + Alt + O` | Toggle IME On/Off       |
 | `Ctrl + Alt + /` | Toggle IME On/Off       |
 
 ---
