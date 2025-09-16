@@ -1,0 +1,26 @@
+# Ol Chiki IME (Input Method Editor)
+
+Ol Chiki IME is a Windows desktop application that provides **phonetic keyboard mapping** for the **Ol Chiki script** (Santali language).  
+It allows users to type Ol Chiki characters using standard Latin (QWERTY) keyboard input.
+
+## 🚀 Download
+👉 [Download the latest release](https://github.com/YOUR_USERNAME/OlChikiIME/releases/latest)
+
+## ✨ Features
+- Phonetic key mapping: Latin keys → Ol Chiki script
+- System-wide enable/disable toggle
+- Tray icon with menu
+- Global shortcuts:
+  - **Ctrl+Alt+/** → Toggle IME
+
+## 📦 Installation
+1. Download the `.exe` file from the [Releases page](https://github.com/YOUR_USERNAME/OlChikiIME/releases).
+2. Run the installer/executable.
+3. Use the hotkeys or toolbar to enable/disable Ol Chiki IME.
+
+## 📜 License
+This project is licensed under the MIT License. See [LICENSE](LICENSE).
+
+---
+
+© 2025 Atnal Hansda
