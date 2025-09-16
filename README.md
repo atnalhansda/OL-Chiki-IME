@@ -71,7 +71,7 @@ Since this repository only distributes the executable, contributions are current
 ## 📜 License
 
 This project is licensed under the **MIT License**.  
-See [LICENSE](LICENSE) for details.
+See LICENSE for details.
 
 ---
 
