@@ -59,12 +59,6 @@ It provides an easy way to type Ol Chiki letters using a **phonetic keyboard map
 
 ---
 
-## 🖼 Screenshots (Optional)
-
-*(Add images here if you want to show toolbar, tray icon, or typing demo.)*
-
----
-
 ## 🤝 Contributing
 
 Since this repository only distributes the executable, contributions are currently limited to:  
